@@ -1,0 +1,8 @@
+# Node.js
+/projectQuiz/node_modules
+/projectQuiz/.next
+
+# Python
+/quizapp_backend/__pycache__
+/quizapp_backend/db.sqlite3
+/quizapp_backend/env/
